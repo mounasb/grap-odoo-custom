@@ -10,6 +10,7 @@
     "website": "http://www.grap.coop",
     "license": "AGPL-3",
     "depends": [
+        "joint_buying_product",
         "product",
     ],
     "installable": True,
